@@ -68,7 +68,7 @@ ALTER TABLE desc_mobil  MODIFY deadline DATE;
 ```
 ## Hasil
 
-![[date.png]]
+![date.png](ASETALTER/date.png)
 ## Analisis
 
 - `ALTER TABLE` adalah perintah SQL yang digunakan untuk mengubah struktur tabel yang sudah ada.
@@ -92,7 +92,7 @@ ALTER TABLE desc_mobil
 ```
 ## Hasil
 
-![[cos.png]]
+![cos.png](ASETALTER/cos.png)
 ## Analisis
 
 - `ALTER TABLE`adalah SQL
@@ -117,7 +117,7 @@ ALTER TABLE desc_mobil
 ```
 ## Hasil
 
-![[ces.png]]
+![ces.png](ASETALTER/ces.png)
 ## Analisis
 
 - `ALTER TABLE` adalah perintah SQL yang digunakan untuk mengubah struktur tabel yang sudah ada.
@@ -140,7 +140,7 @@ ALTER TABLE desc_mobil DROP COLUMN deadline;
 ```
 ## Hasil
 
-![[menghapuskolom.png]]
+![menghapuskolom.png](ASETALTER/menghapuskolom.png)
 ## Analisis
 
 - `ALTER TABLE`adalah perintah SQL yang digunakan untuk mengubah struktur tabel yang ada.
@@ -163,7 +163,7 @@ Singkatnya, program ini menginstruksikan sistem manajemen basis data untuk mengh
 ```
 ## Hasil
 
-![[tabel.png]] 
+![tabel.png](ASETALTER/tabel.png)
 ## Analisis
 
 - `ALTER TABLE` adalah perintah SQL yang digunakan untuk mengubah struktur tabel yang sudah ada.
