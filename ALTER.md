@@ -44,7 +44,7 @@ ALTER TABLE desc_mobil CHANGE batas_peminjaman deadline varchar(10);
 ```
 ## Hasil
 
-![[Pasted image 20240423151236.png]]
+![m](ASETALTER/mengubah%20nama%20kolom.png)
 ## Analisis
 - `ALTER TABLE`: Ini adalah perintah SQL yang digunakan untuk memodifikasi struktur tabel yang sudah ada.
 - `desc_mobil`: Ini adalah nama tabel yang akan diubah.
