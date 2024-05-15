@@ -13,11 +13,13 @@ ALTER TABLE desc_mobil ADD batas_peminjaman varchar(10) AFTER peminjam;
 ## Hasil
 ### Before
 Sebelum menggunakan query alter
-![[Alter/ASET ALTER/before.png]]
+
+![Alter/ASET ALTER/before.png](ASETALTER/before.png)
+
 ### After
 Sesudah menggunakan query alter
 
-![[after.png]]
+![after.png](ASETALTER/after.png)
 
 ## Analisis
 
